@@ -24,7 +24,7 @@ app.use(async (ctx) => {
         activeService: 1,
         procMemory: 4000,
         heapCommitted: 1000,
-        procCPU: 70,
+        procCPU: 55,
       },
     ],
   };
