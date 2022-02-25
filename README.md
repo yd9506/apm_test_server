@@ -36,7 +36,7 @@ yarn start
             "activeService": 1,
             "procMemory": 4000,
             "heapCommitted": 1000,
-            "procCPU": 45
+            "procCPU": 55
         }
     ]
 }
