@@ -2,6 +2,8 @@ import Koa from 'koa';
 
 console.log('hello');
 
+var hi = 'hi'
+
 const app = new Koa();
 app.use(async (ctx) => {
   ctx.body = {
